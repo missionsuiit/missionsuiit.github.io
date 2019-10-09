@@ -1,7 +1,3 @@
----
-layout: default
----
-
 
 Welcome to the project site of **Mission SUIIT**. It’s launched by 4 of the final year B.Tech Computer Science undergrads of SUIIT, Burla.We've got into the action from the first week itself since the inception of the team on **Aug 10, 2019**
 			
