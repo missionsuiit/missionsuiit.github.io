@@ -11,8 +11,8 @@ Welcome to the project site of **Mission SUIIT**. It’s launched by 4 of the fi
 The following students have a stake in the project building process:
 1. Biswaranjan Das
 2. Priyadarshini Jyotishi
-3. Nikita Padhan
-4. Sourav Kumar Sahoo
+3. <a href="https://www.linkedin.com/in/nikita-padhan-521974188/">Nikita Padhan </a>
+4. <a href="www.souravist.in">Sourav Kumar Sahoo </a>
 
 # The Guide
 This mission is getting carried out under the supervision of **Ms. Sanju Parida**. 
