@@ -20,4 +20,4 @@ This mission is getting carried out under the supervision of **Ms. Sanju Parida*
 ## Why We Stand Together?
 Although having the flexibility to work as individuals, we took the call to get together onto a single platform as the great things in the world are built in a team! In this context, I’d like to note a famous quote on the incredible power of a small team:
 
-```Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has!-Margaret Mead```
+```Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has!``` **-Margaret Mead**
